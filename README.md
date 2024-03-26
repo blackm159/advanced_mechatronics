@@ -15,14 +15,14 @@ PIC32, used for motor control, neopixels, and servo
 
 ### General Demo:
 
-[demo_video.mov](/images/Demo Video.mov)
+[demo_video.mov](https://github.com/blackm159/advanced_mechatronics/assets/116540591/2ed0e6b2-1fc6-4980-8dc8-c42b0b5e572a)
 
-[demo_video_cool.mov](/images/Demo Video Night Mode.mov)
+[demo_video_cool.mov](https://github.com/blackm159/advanced_mechatronics/assets/116540591/cec416d0-4a9e-4d7c-9e1d-8fa72c22ac06)
 
 
 ### Turning Demo:
 
-[demo_video_turning.mov](/images/Demo Video Turning.mov)
+[demo_video_turning.mov](https://github.com/blackm159/advanced_mechatronics/assets/116540591/28b01306-26db-4dd5-88a3-06e6922eabf7)
 
 
 ### Awarded trophy for best line follower
