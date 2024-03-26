@@ -27,4 +27,4 @@ PIC32, used for motor control, neopixels, and servo
 
 ### Awarded trophy for best line follower
 
-[trophy.jpg](/images/Trophy.jpg)
+![trophy.jpg](images/Trophy.jpg)
